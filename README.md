@@ -7,19 +7,26 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
+Import the required packages.
 <br>
 
 
 ### Step2:
+Read the image and cconvert into gray image.
 <br>
 
 ### Step3:
+Remove the noise of the image using gaussian operator.
 <br>
 
 ### Step4:
+Find the sobel edge,laplacian edge,canny edge using the built in modules available in opencv.
 <br>
 
 ### Step5:
+Plot the edged image using matplotlib.
+
+
 <br>
 
  
